@@ -4,7 +4,4 @@ public enum TipoOperacao {
     SAQUE,
     DEPOSITO,
     PAGAMENTO,
-    FINANCIAMENTO,
-    INVESTIMENTO,
-    TRANSFERENCIA,
 }

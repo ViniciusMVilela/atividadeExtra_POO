@@ -127,7 +127,6 @@ public abstract class Conta {
 
         for (Operacao f : filtro) {
             System.out.print("Extrato mês: " + mes + "\n" + f.getOperacao() + " " + f.getValor() + " " + f.getData());
-            //System.out.println(f.getOperacao() + " " + f.getValor() + " " + f.getData());
         }
     }
 
